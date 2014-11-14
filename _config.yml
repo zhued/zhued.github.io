@@ -1,0 +1,10 @@
+# Site settings
+title: Edward Zhu
+email: edward.r.zhu@gmail.com
+description: ""
+baseurl: ""
+github_username:  zhued
+
+# Build settings
+markdown: kramdown
+permalink: pretty
