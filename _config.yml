@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:
+title: "This is Edward Zhu"
 description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -21,8 +21,8 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: "Edward Zhu"
+  email: "edward.r.zhu@gmail.com"
   twitter:
   google:
     ad-client: 
