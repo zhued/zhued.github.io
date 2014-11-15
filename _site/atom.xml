@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+    
+
     <title>This is Edward Zhu</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-		<icon>/apple-touch-icon-precomposed.png</icon>
-    <subtitle></subtitle>
-    <link href="/atom.xml" rel="self"/>
-    <link href="/" rel="alternate" type="text/html"/>
-    <updated>2014-11-14T19:37:18-07:00</updated>
-    <id>/</id>
+		<icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+    <subtitle>Something Something Something</subtitle>
+    <link href="http://localhost:4000/atom.xml" rel="self"/>
+    <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+    <updated>2014-11-14T20:18:16-07:00</updated>
+    <id>http://localhost:4000/</id>
     <author>
 			<name>Edward Zhu</name>
-			<uri>/</uri>
+			<uri>http://localhost:4000/</uri>
 			<email>edward.r.zhu@gmail.com</email>
 		</author>
 

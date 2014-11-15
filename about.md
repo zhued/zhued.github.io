@@ -1,6 +1,6 @@
 ---
-layout: archive
-permalink: /
+layout: default
+permalink: /about/
 title: "This is Edward Zhu"
 ---
 
