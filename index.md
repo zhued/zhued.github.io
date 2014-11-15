@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: media
 permalink: /
 title: "This is Edward Zhu"
 ---
