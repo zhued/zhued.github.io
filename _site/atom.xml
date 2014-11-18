@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+    
+
     <title>This is Edward Zhu</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-		<icon>/apple-touch-icon-precomposed.png</icon>
+		<icon>zhued.github.io/apple-touch-icon-precomposed.png</icon>
     <subtitle>Something Something Something</subtitle>
-    <link href="/atom.xml" rel="self"/>
-    <link href="/" rel="alternate" type="text/html"/>
-    <updated>2014-11-14T20:36:23-07:00</updated>
-    <id>/</id>
+    <link href="zhued.github.io/atom.xml" rel="self"/>
+    <link href="zhued.github.io/" rel="alternate" type="text/html"/>
+    <updated>2014-11-18T09:28:46-07:00</updated>
+    <id>zhued.github.io/</id>
     <author>
 			<name>Edward Zhu</name>
-			<uri>/</uri>
+			<uri>zhued.github.io/</uri>
 			<email>edward.r.zhu@gmail.com</email>
 		</author>
 
