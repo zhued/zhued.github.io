@@ -1,14 +1,30 @@
-# Edward Zhu's Info Page
+Agency Jekyll theme
+====================
 
-This is a GitHub page that I will idealy be using as the main site about me and linking all of my projects that I have done and posting my resume and other documents.
+Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-Check it out here: [zhued.github.io](zhued.github.io)
+# How to use
+
+###Portfolio 
+
+Portfolio projects are in '/_posts'
+
+Images are in '/img/portfolio'
+
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
 
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+# Demo
 
----
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-## Notable Features
-
-* Made by Jekyll and Skinny Bones
+=========
+For more details, read [documentation](http://jekyllrb.com/)
