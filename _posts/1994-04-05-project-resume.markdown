@@ -1,0 +1,15 @@
+---
+title: Resume
+subtitle: Resume
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: PUT MY RESUME HERE BUT IDK HOW YET
+
+---
