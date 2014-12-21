@@ -1,0 +1,15 @@
+---
+title: EZList
+subtitle: Prototype of an App
+layout: default
+modal-id: 1
+date: 2014-12-17
+img: EZList_Poster.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+project: EZList on GitHub
+link: https://github.com/zhued/EZList
+description: Given the time and space, I would have written something on this by now
+
+---
