@@ -1,11 +1,11 @@
 ---
 title: EZList
-subtitle: Prototype of an App
+subtitle: Prototype of an App - JustInMind
 layout: default
 modal-id: 1
 date: 2014-12-17
 img: EZList_Poster.png
-thumbnail: escape-thumbnail.png
+thumbnail: EZList_Poster_thumbnail.png
 alt: image-alt
 project-date: April 2014
 project: EZList on GitHub
