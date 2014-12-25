@@ -43,7 +43,7 @@ portfolio:
     tools: PHP
     icon: toggle-down
     url: https://github.com/zhued/MDwordcounter
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper.
+    description: Developed for showing the wordcount of a Markdown GitHub flavored presentation or paper. Written for CSCI 3155 - Principles of Programming Languages at CU Boulder.
 
   - project: Personal Website
     modal: Personal_Website

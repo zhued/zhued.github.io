@@ -744,6 +744,8 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+
+
 ul.social-buttons {
     margin-bottom: 0;
 }
@@ -868,3 +870,22 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+/* I ADDED THIS*/
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+
+ul.dropdown-menu {
+    background-color: #000;
+}
+/*
+.nav.nav-tabs > li.dropdown.active.open > a, 
+.nav.nav-tabs > li.dropdown.active.open > ul.dropdown-menu a:hover,
+.nav.nav-tabs > li.dropdown.open > a, 
+.nav.nav-tabs > li.dropdown.open > ul.dropdown-menu a:hover
+{
+  color: #ooo;
+  background-color: #b91773;
+  border-color: #fff;
+}*/
