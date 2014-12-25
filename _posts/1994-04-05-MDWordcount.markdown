@@ -2,7 +2,7 @@
 title: MDWordcounter
 subtitle: Markdown Wordcounter - PHP
 layout: default
-modal-id: 2
+modal-id: 50
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png

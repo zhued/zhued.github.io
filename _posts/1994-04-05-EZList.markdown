@@ -2,8 +2,7 @@
 title: EZList
 subtitle: Prototype of an App - JustInMind
 layout: default
-modal-id: 1
-date: 2014-12-17
+modal-id: 49
 img: EZList_Poster.png
 thumbnail: EZList_Poster_thumbnail.png
 alt: image-alt

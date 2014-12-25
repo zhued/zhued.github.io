@@ -1,8 +1,8 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Personal Website
+subtitle: Jekyll & Bootstrap
 layout: default
-modal-id: 4
+modal-id: 48
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
