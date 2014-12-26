@@ -1,5 +1,5 @@
 url: http://zhued.github.io
-baseurl: 
+baseurl: ""
 
 # Site settings
 title: Edward Zhu
@@ -26,32 +26,6 @@ social:
 address:
   - line: 2624 Shavano Court
   - line: Fort Collins, CO
-
-# Portfolio 
-portfolio:
-  - project: EZList
-    modal: EZList
-    intro: Prototype of an App
-    tools: JustInMind
-    icon: mobile
-    url: https://github.com/zhued/EZList
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper. asfasdfasdf
-
-  - project: MDWordcount
-    modal: MDWordcount
-    intro: Wordcount for Markdown text files
-    tools: PHP
-    icon: toggle-down
-    url: https://github.com/zhued/MDwordcounter
-    description: Developed for showing the wordcount of a Markdown GitHub flavored presentation or paper. Written for CSCI 3155 - Principles of Programming Languages at CU Boulder.
-
-  - project: Personal Website
-    modal: Personal_Website
-    intro: You are looking at it right now! 
-    tools: Jekyll and Bootstrap
-    icon: desktop
-    url: https://github.com/zhued/zhued.github.io
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper.
 
 # Build settings
 markdown: kramdown
