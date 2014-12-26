@@ -1,16 +1,30 @@
-<!-- Portfolio Grid Section -->
+<!-- Show all blog posts -->
     <section id="blogposts">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Blog Posts</h2>
-                    <!-- <h3 class="section-subheading text-muted">Here are some of my Projects: Personal and Schoolwork.
-                    </h3> -->
                 </div>
+            </div> -->
+
+            {% for post in site.posts %}
+            <div class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <h6 class="post-title">
+                        {{ post.title }}
+                    </h6>
+                    {% if post.subtitle %}
+                    <h6 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h6>
+                    {% endif %}
+                </a>
+                <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
             </div>
+            <hr>
+            {% endfor %}
 
-
-            <!-- <div class="home">
+            <!-- <div class="container text-center">
 
                 <ul class="posts">
                     {% for post in site.posts %}

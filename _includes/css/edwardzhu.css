@@ -50,10 +50,15 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+h5 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+h6 {
+    /*text-transform: uppercase;*/
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 700;
 }
 
@@ -282,9 +287,23 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .blog-intro-text {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+header .blog-intro-text .blog-intro-lead-in {
+    margin-bottom: 25px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -299,10 +318,25 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .blog-intro-text .blog-intro-heading {
+    margin-bottom: 25px;
+    /*text-transform: uppercase;*/
+    /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
+    }
+
+    header .blog-intro-text {
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
@@ -313,6 +347,15 @@ header .intro-text .intro-heading {
         line-height: 40px;
     }
 
+    header .blog-intro-text .blog-intro-lead-in {
+        margin-bottom: 25px;
+        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+        font-size: 30px;
+        font-style: italic;
+        line-height: 30px;
+    }
+
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
@@ -321,7 +364,18 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+
+    header .blog-intro-text .blog-intro-heading {
+        margin-bottom: 50px;
+        /*text-transform: uppercase;*/
+        /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+    }
 }
+
 
 section {
     padding: 100px 0;
@@ -873,7 +927,12 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 
-/* I ADDED THIS*/
+/*------------------------------------------*/
+/*------------------------------------------*/
+/*------------------------------------------*/
+/*------------------------------------------*/
+/*------------------------------------------*/
+/*------------I ADDED THIS------------------*/
 ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;    
 }
@@ -881,13 +940,45 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 ul.dropdown-menu {
     background-color: #000;
 }
-/*
-.nav.nav-tabs > li.dropdown.active.open > a, 
-.nav.nav-tabs > li.dropdown.active.open > ul.dropdown-menu a:hover,
-.nav.nav-tabs > li.dropdown.open > a, 
-.nav.nav-tabs > li.dropdown.open > ul.dropdown-menu a:hover
-{
-  color: #ooo;
-  background-color: #b91773;
-  border-color: #fff;
-}*/
+
+.post-preview > a {
+  color: #404040;
+
+}
+.post-preview > a:hover,
+.post-preview > a:focus {
+  text-decoration: none;
+  color: #{{ site.color.primary }};
+}
+.post-preview > a > .post-title {
+  font-size: 30px;
+  font-weight: 800;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.post-preview > a > .post-subtitle {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+.post-preview > .post-meta {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  color: #404040;
+}
+.post-preview > .post-meta > a:hover,
+.post-preview > .post-meta > a:focus {
+  color: #{{ site.color.primary }};
+  text-decoration: underline;
+}
+@media only screen and (min-width: 768px) {
+  .post-preview > a > .post-title {
+    font-size: 36px;
+  }
+}

@@ -8,11 +8,18 @@ description: "I like pandas"
 resume-link: https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view
 
 # Color settings (hex-codes without the leading hash-tag)
+# color:
+#   primary: 0099FF
+#   secondary: 33CCFF  
+#   secondary-dark: 333
+#   navbar: 0099FF
+#   navbar-sec: FFFFFF
+
 color:
-  primary: 0099FF
-  secondary: 33CCFF  
+  primary: 0085A1
+  secondary: 003F4C  
   secondary-dark: 333
-  navbar: 0099FF
+  navbar: 0085A1
   navbar-sec: FFFFFF
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
