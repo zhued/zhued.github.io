@@ -20,7 +20,7 @@ body {
 
 p {
     font-size: 14px;
-    line-height: 1.75;
+    line-height: 1.5;
 }
 
 p.large {
@@ -943,7 +943,6 @@ ul.dropdown-menu {
 
 .post-preview > a {
   color: #404040;
-
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
