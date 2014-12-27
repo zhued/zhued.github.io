@@ -1,5 +1,6 @@
-url: http://zhued.github.io
+url: "http://zhued.github.io"
 baseurl: ""
+blog-url: "http://zhued.github.io/blog/"
 
 # Site settings
 title: Edward Zhu
