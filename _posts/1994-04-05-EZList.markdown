@@ -1,16 +1,11 @@
 ---
-title: "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
-subtitle: Prototype of an App - JustInMind
-layout: default
-modal-id: 49
-img: EZList_Poster.png
-thumbnail: EZList_Poster_thumbnail.png
-alt: image-alt
-project-date: April 2014
-project: EZList on GitHub
-link: https://github.com/zhued/EZList
-description: Given the time and space, I would have written something on this by now
-
+layout:     post
+title:      "Failure is not an option."
+subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+date:       1994-04-05 12:00:00
+author:     "Edward Zhu"
+url:		http://zhued.github.io/blog/HELOWJUSTATEST
+header-img: "img/map-image.png"
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>

@@ -1,5 +1,4 @@
 /*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -8,6 +7,7 @@ body {
     overflow-x: hidden;
     font-family: 'Lora', serif;
     color: #{{ site.color.secondary-dark }};
+
 }
 
 .text-muted {
@@ -19,12 +19,12 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.5;
 }
 
-p.large {
-    font-size: 18px;
+p.small {
+    font-size: 16px;
 }
 
 a,
@@ -49,16 +49,16 @@ a.active {
 h1,
 h2,
 h3,
-h4,
-h5 {
+h4 {
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
 
+h5,
 h6 {
-    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
 }
 
 .img-centered {
@@ -265,6 +265,88 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em;
     }
 }
+
+/* FOR THE BLOG POSTS MAN!!!!*/
+.intro-header {
+  background-color: #808080;
+  background: no-repeat center center;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  margin-bottom: 50px;
+}
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  padding: 100px 0 50px;
+  color: white;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading,
+  .intro-header .post-heading,
+  .intro-header .page-heading {
+    padding: 150px 0;
+  }
+}
+.intro-header .site-heading,
+.intro-header .page-heading {
+  text-align: center;
+}
+.intro-header .site-heading h6,
+.intro-header .page-heading h6 {
+  margin-top: 0;
+  font-size: 50px;
+}
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading {
+  font-size: 24px;
+  line-height: 1.1,
+            display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .site-heading h6,
+  .intro-header .page-heading h6 {
+    font-size: 80px;
+  }
+}
+.intro-header .post-heading h6 {
+  font-size: 35px;
+}
+.intro-header .post-heading .subheading,
+.intro-header .post-heading .meta {
+  line-height: 1.1;
+  display: block;
+}
+.intro-header .post-heading .subheading {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  margin: 10px 0 30px;
+  font-weight: 600;
+}
+.intro-header .post-heading .meta {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 20px;
+}
+.intro-header .post-heading .meta a {
+  color: white;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .post-heading h6 {
+    font-size: 55px;
+  }
+  .intro-header .post-heading .subheading {
+    font-size: 30px;
+  }
+}
+/* END OF BLOG POSTS CSS MAN!!!*/
+
 
 header {
     text-align: center;
