@@ -9,7 +9,7 @@ description: "I like pandas"
 resume-link: https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view
 
 # Paginate for Blog
-paginate: 2
+paginate: 10
 paginate_path: "blog/page:num/"
 
 # Color settings (hex-codes without the leading hash-tag)
