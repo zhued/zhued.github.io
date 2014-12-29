@@ -1,3 +1,11 @@
+  - project: Personal Website
+    modal: Personal_Website
+    intro: You are looking at it right now! 
+    tools: Jekyll and Bootstrap
+    icon: desktop
+    url: https://github.com/zhued/zhued.github.io
+    description: Developed for showing the wordcount of a Markdown flavored presentation or paper.
+
   - project: EZList
     modal: EZList
     intro: Prototype of an App
@@ -14,10 +22,10 @@
     url: https://github.com/zhued/MDwordcounter
     description: Developed for showing the wordcount of a Markdown GitHub flavored presentation or paper. Written for CSCI 3155 - Principles of Programming Languages at CU Boulder.
 
-  - project: Personal Website
-    modal: Personal_Website
-    intro: You are looking at it right now! 
-    tools: Jekyll and Bootstrap
-    icon: desktop
-    url: https://github.com/zhued/zhued.github.io
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper.
+  - project: Personal Blog
+    modal: Personal_Blog
+    intro: You can read my blog <a href="blog" target="_blank">here</a>!
+    tools: Markdown and Jekyll
+    icon: book
+    url: https://zhued.github.io/blog
+    description: Just my random thoughts. 

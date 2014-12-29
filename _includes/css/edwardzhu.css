@@ -406,8 +406,8 @@ header .blog-intro-text .blog-intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .blog-intro-text {
