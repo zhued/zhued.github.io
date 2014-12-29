@@ -1,0 +1,68 @@
+  - name: Python
+    icon: ../img/tools/python.png
+
+  - name: Perl
+    icon: ../img/tools/perl.png
+
+  - name: PHP
+    icon: ../img/tools/php.jpg
+
+  - name: Bash Scripting
+    icon: ../img/tools/bash.png
+
+  - name: C/C++
+    icon: ../img/tools/c.png
+
+  - name: MATLAB
+    icon: ../img/tools/matlab.png
+
+  - name: Javascript
+    icon: ../img/tools/js.png
+
+  - name: HTML
+    icon: ../img/tools/html5.png
+
+  - name: CSS
+    icon: ../img/tools/css3.png
+
+  - name: Scala
+    icon: ../img/tools/scala.png
+
+  - name: Sublime Text
+    icon: ../img/tools/sublime.png
+
+  - name: GitHub
+    icon: ../img/tools/github.png
+
+  - name: Jekyll
+    icon: ../img/tools/jekyll.png
+
+  - name: Bootstrap
+    icon: ../img/tools/bootstrap.png
+
+  - name: Android Studio
+    icon: ../img/tools/AndroidStudio.png
+
+  - name: Ubuntu
+    icon: ../img/tools/ubuntu.png
+
+  - name: Windows
+    icon: ../img/tools/windows.png
+
+  - name: Mac OSX
+    icon: ../img/tools/osx.png
+
+  - name: Rally (Agile Methodologies)
+    icon: ../img/tools/rally.png
+
+  - name: MySQL
+    icon: ../img/tools/mysql.png
+
+  - name: PostgreSQL
+    icon: ../img/tools/postgres.png
+
+  - name: Micorsoft Office Suite
+    icon: ../img/tools/microsoft_office.png
+
+  - name: Sony Vegas Pro
+    icon: ../img/tools/sonyvegaspro.jpeg

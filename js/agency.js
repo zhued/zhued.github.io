@@ -35,3 +35,5 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+// ENABLING TOOLTIPS
+$(function () { $("[data-toggle='tooltip']").tooltip(); });
