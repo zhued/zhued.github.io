@@ -4,7 +4,20 @@
     tools: Jekyll and Bootstrap
     icon: desktop
     url: https://github.com/zhued/zhued.github.io
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper.
+    description1: |
+        Utilized the GitHub Pages functionality to create my personal website. Prior to this I 
+        have pratically no experience in the web based programming side of computer science, but
+        I had a lot of fun figuring out everything from scratch!
+    description2: |
+        I used Jekyll and Bootstrap to render and customize everything that I wanted on this page.
+        Then I simply push to my github repo and BAM it is live!
+    description3: |
+        The More Info button will lead you to documentation and the source code of my website!
+    visual:
+    description4:
+
+
+
 
   - project: EZList
     modal: EZList
@@ -12,7 +25,27 @@
     tools: JustInMind
     icon: mobile
     url: https://github.com/zhued/EZList
-    description: Developed for showing the wordcount of a Markdown flavored presentation or paper. asfasdfasdf
+    description1: |
+        EZList is a mobile app mockup that will allow easier grocery shopping for all
+        users. The basics of this app is to read/input in a shopping list, then based on
+        different settings and preferences, the app will find different routes to stores that
+        will minimalize the cost of the entire shopping list!
+    description2: |
+        My team used an application called <a href="http://www.justinmind.com/" 
+        target="_blank">JustInMind</a> to implement a working, basic prototype of the application. 
+        This project was done through the class CSCI 3002 Human Centered Computing.
+        Throughout the semester, we learned the foundations of creating programs that
+        focus on how humans will interact with it and how to better our designs based
+        on that principle. 
+    description3: |
+        The visual below was our poster for the final expo where we showed off our idea, gaining
+        very high remarks and intrests. Feel free to click on the More Info button on the bottom 
+        right for the source of this project.
+    visual: ../img/portfolio/EZList_Poster.png
+    description4: |
+
+
+
 
   - project: MDWordcount
     modal: MDWordcount
@@ -20,7 +53,21 @@
     tools: PHP
     icon: toggle-down
     url: https://github.com/zhued/MDwordcounter
-    description: Developed for showing the wordcount of a Markdown GitHub flavored presentation or paper. Written for CSCI 3155 - Principles of Programming Languages at CU Boulder.
+    description1: |
+        Developed for showing the wordcount of a Markdown GitHub flavored file. It essentially
+        ignores all Markdown syntax in a file, as well as references and code blocks, and returns
+        a number that corresponds to the number of "true words" there are. 
+    description2: |
+        Written for CSCI 3155 - Principles of Programming Languages at CU Boulder by request of
+        our instructor to grade and find the word count of our Markdown flavored final paper
+        and presentation.
+    description3: |
+        The More Info button will lead you to documentation and the source code of this project!
+    visual:
+    description4:
+
+
+
 
   - project: Personal Blog
     modal: Personal_Blog
@@ -28,4 +75,13 @@
     tools: Markdown and Jekyll
     icon: book
     url: https://zhued.github.io/blog
-    description: Just my random thoughts. 
+    description1: |
+        This blog was a spontaneous idea of mine to start conveying my random thoughts that I 
+        have throughout the day. I tend to have personal rants to myself sometimes, so I guess
+        a blog that I can just spew out everything would be a good thing. I'm not so good at writing
+        in general, but I hope through this blog I can increase my writing expertise!
+    description2: |
+        The More Info button will lead to you my blog!
+    description3: |
+    visual:
+    description4:
