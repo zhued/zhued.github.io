@@ -61,7 +61,7 @@
   - name: PostgreSQL
     icon: ../img/tools/postgres.png
 
-  - name: Micorsoft Office Suite
+  - name: Microsoft Office Suite
     icon: ../img/tools/microsoft_office.png
 
   - name: Sony Vegas Pro
