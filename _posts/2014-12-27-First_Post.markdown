@@ -13,7 +13,7 @@ Hi. How are you? I don't really know how to start these things.
 While fiddling around with building my website, the thought of starting a blog came to my mind.
 
 <br />
-I'm terrible at writing. Why did I even think about doing so? Why did I even start with this post? I need to start writing better; maybe that’s why. I heard that being able to convey one’s thoughts through words is one of the best traits a person can have. 
+I'm terrible at writing. Why did I even think about doing so? Why did I even start writing this post? I need to start writing better; maybe that’s why. I heard that being able to convey one’s thoughts through words is one of the best traits a person can have. 
 
 <br />
 I’ll even make this blog into some sort diary; jotting down my experiences as I journey through this thing called life. Sounds like a plan. 
