@@ -1,37 +1,55 @@
-url: "http://zhued.github.io"
-baseurl: ""
-blog-url: "http://zhued.github.io/blog/"
+# Site wide configuration
 
-# Site settings
 title: Edward Zhu
-email: edward.r.zhu@gmail.com
-description: "I like pandas"
-resume-link: https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view
+locale: en_US
+description: Developer. Thinker. Life Enthusiast.
+# logo: site-logo.png
+logo: me.jpg
+search: true
+# url: http://zhued.github.io
+url:
 
-# Paginate for Blog
-paginate: 10
-paginate_path: "blog/page:num/"
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 0085A1
-  secondary: 003F4C  
-  secondary-dark: 333
-  navbar: 0085A1
-  navbar-sec: FFFFFF
+# Jekyll configuration
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: linkedin 
-    url: https://www.linkedin.com/profile/view?id=306788079
-  - title: github
-    url: https://github.com/zhued
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 2624 Shavano Court
-  - line: Fort Collins, CO
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Edward Zhu
+  avatar: bio-photo.jpg
+  email: edward.r.zhu@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: zhued
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: edwardrzhu
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
