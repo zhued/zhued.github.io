@@ -1,3 +1,13 @@
+- name: word clock
+  time: Jan 15 +
+  url: 
+  tagline: led word clock controlled by arduino
+  tools: Arduino
+  description: Currently in progress, github repo not up yet!!!
+  github:
+    url: 
+    branch:
+
 - name: zhued.github.io
   time: Dec 14 - Jan 15+
   url: https://zhued.github.io/
