@@ -1,40 +1,29 @@
 ---
 layout: page
-title: Projects
+title: Personal Projects
 excerpt: "An archive of my projects."
 ---
 
 <div id="projects">
 	{% for project in site.data.projects %}
 		<div class="project">
-			<h1>{{ project.name }}</h1>
-			<span class="separator">|</span>
-			<span>{{ project.tagline }}</span>
+			<h1>{{ project.name }}</h1> 
+			<span class="separator" style="font-size: 20px">|</span>
+			<span style="font-size: 20px">{{ project.tagline }}</span>
 			<div class="meta">
-				<span class="time">{{ project.time }}</span>
+				<span class="time" style="font-weight: bold">{{ project.time }}</span>
 				<span class="toolstack">| toolstack:</span> {{ project.tools | join: ", " }}
 			</div>
-			<div class="description">{{ project.description | markdownify }}</div>
+			<div class="description">{{ project.description | markdownify}}</div>
+
 			{% if project.url or project.github %}
-				<div class="links"
-					{% if project.url and project.github %}
-						id="links_3"
-					{% else if project.github %}
-						id="links_2"
-					{% else %}
-						id="links_1"
-					{% endif %}>
-					{% if project.url %}
-						<div class="website">
-							<a href="{{ project.url }}">view online</a>
-						</div
-					>{% endif %}{% if project.github %}<div class="github">
-						<a href="https://github.com/{{ project.github.url }}">view on GitHub</a>
-					</div
-					><div class="download">
-						<a href="https://github.com/{{ project.github.url }}/archive/{{ project.github.branch }}.zip">download zip</a>
-					</div>{% endif %}
-				</div>
+				{% if project.url %}
+					<a href="{{ project.url }}" class="btn" target="_blank"><i class="fa fa-link fa-fw"></i>view online</a>
+				{% endif %}
+				{% if project.github %}
+					<a href="https://github.com/{{ project.github.url }}" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i>view on GitHub</a>
+				{% endif %}
+
 			{% endif %}
 		</div>
 	{% endfor %}

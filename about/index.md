@@ -11,17 +11,12 @@ image:
 
 My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder** with a focus on Systems level (low-level) programming, but I enjoy learning about all forms of software! 
 
-## So Simple Theme is all about:
+## Quick Facts:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Fluent in speaking **Mandarin Chinese**, as well as Shanghainese (dialect of Chinese)
+* I love **volunteering**; Logged **over 400 hours** of non-profit work through various associations such as the Poudre Valley Hospital, the Poudre River Library, and other honor societies.
+* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the lastest technologies
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 ## Contact Me:
 

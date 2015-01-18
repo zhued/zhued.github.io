@@ -77,16 +77,13 @@ table {
   margin-bottom: 20px;
   padding: 8px 20px;
   @include font-size(14);
-  background-color: $black;
-  color: $white;
+  background-color: $white;
+  color: $black;
   border: 2px solid $black !important;
   border-radius: $border-radius;
-  &:visited {
-    color: $white;
-  }
   &:hover {
-    background-color: $white;
-    color: $black;
+    background-color: $black;
+    color: $white;
   }
 }
 
