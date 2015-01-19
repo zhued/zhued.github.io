@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Hello World, First Post"
 author: me
 excerpt: "Blah blah blah"
 categories: blog
@@ -11,6 +11,7 @@ image:
   <!-- credit: WeGraphics -->
   <!-- creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 share: true
+comments: true
 ---
 
 Hi. How are you? I don't really know how to start these things. 

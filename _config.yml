@@ -4,7 +4,9 @@ title: Edward Zhu
 locale: en_US
 description: Developer. Thinker. Life Enthusiast.
 # logo: site-logo.png
-logo: me.jpg
+# logo: me.jpg
+logo: EZ_logo.png
+me: me.jpg
 search: true
 # url: http://zhued.github.io
 url:
@@ -37,7 +39,7 @@ owner:
   name: Edward Zhu
   avatar: bio-photo.jpg
   email: edward.r.zhu@gmail.com
-  disqus-shortname:
+  disqus-shortname: edwardzhu
   twitter: #username
   facebook: #username
   github: zhued
