@@ -4,7 +4,7 @@ title: "Hello World, First Post"
 author: me
 excerpt: "Blah blah blah"
 categories: blog
-tags: [life]
+tags: [life, background]
 modified:
 image:
   <!-- feature: so-simple-sample-image-3.jpg -->
