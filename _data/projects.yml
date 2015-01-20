@@ -5,8 +5,8 @@
   tools: Arduino
   description: Currently in progress, github repo not up yet!!!
   github:
-    url: 
-    branch:
+    url: zhued/wordclock
+    branch: master
 
 - name: zhued.github.io
   time: Dec 14 - Jan 15+

@@ -15,7 +15,7 @@ My name is **Edward** and I love new, upcoming technology. I'm currently studyin
 
 * Fluent in speaking **Mandarin Chinese**, as well as Shanghainese (dialect of Chinese)
 * I love **volunteering**; Logged **over 400 hours** of non-profit work through various associations such as the Poudre Valley Hospital, the Poudre River Library, and other honor societies.
-* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the lastest technologies
+* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the latest technologies
 
 
 ## Contact Me:
