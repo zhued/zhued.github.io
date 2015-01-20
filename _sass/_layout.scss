@@ -194,6 +194,9 @@ body {
 	border-bottom: 1px solid lighten($black,80);
 	border-bottom: 1px solid rgba($black,.10);
 }
+.homeentry{
+	@include clearfix;
+}
 .entry-feature-image {
 	margin: 20px 0 0;
 	width: 100%;
@@ -414,6 +417,18 @@ span + .entry-title {
 	text-align: center;
 	font-family: $alt-font;
 	@include font-size(14);
+	font-style: italic;
+	color: lighten($text-color,20);
+	a {
+		color: lighten($text-color,20);
+	}
+}
+.footer-wrapper-home {
+	@include clearfix;
+	margin: auto auto;
+	text-align: center;
+	font-family: $alt-font;
+	@include font-size(20);
 	font-style: italic;
 	color: lighten($text-color,20);
 	a {
