@@ -3,7 +3,8 @@
   url: 
   tagline: led word clock controlled by arduino
   tools: Arduino
-  description: Currently in progress, github repo not up yet!!!
+  description: | 
+    Currently in progress, check out github repo for updates and a timline of what I'm doing!
   github:
     url: zhued/wordclock
     branch: master
