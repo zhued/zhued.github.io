@@ -1,5 +1,5 @@
 - name: word clock
-  time: Jan 15 +
+  time: Jan 2015 +
   url: 
   tagline: led word clock controlled by arduino
   tools: Arduino
@@ -10,7 +10,7 @@
     branch: master
 
 - name: zhued.github.io
-  time: Dec 14 - Jan 15+
+  time: Dec 2014 - Jan 2015+
   url: https://zhued.github.io/
   tagline: personal portfolio/blog site
   tools: HTML, SASS, JS, Jekyll, Markdown
@@ -20,7 +20,7 @@
     branch: master
 
 - name: EZList
-  time: Aug 14 - Dec 14
+  time: Aug - Dec 2014
   url:
   tagline: prototype of an app
   tools: JustInMind
@@ -36,7 +36,7 @@
     branch: master
 
 - name: MDWordcounter
-  time: Nov - Dec 14
+  time: Nov - Dec 2014
   url:
   tagline: wordcount for github flavored markdown files
   tools: PHP
