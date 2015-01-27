@@ -347,6 +347,17 @@ span + .entry-title {
 			display: inline;
 		}
 	}
+	.excerpt {
+		display: block;
+		float: none;
+		@include font-size(14, no, 16);
+		@include media($medium) {
+			width: 70%;
+		}
+		@include media($large) {
+			width: 60%;
+		}
+	}
 }
 // Tag index
 .tag-box {
