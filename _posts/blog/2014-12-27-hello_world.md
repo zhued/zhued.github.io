@@ -2,12 +2,12 @@
 layout: post
 title: "Hello World, First Post"
 author: me
-excerpt: "Blah blah blah"
+excerpt: "Little background and reasoning about me"
 categories: blog
 tags: [life, background]
 modified:
 image:
-  <!-- feature: so-simple-sample-image-3.jpg -->
+  feature: so-simple-sample-image-4-small.jpg
   <!-- credit: WeGraphics -->
   <!-- creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 share: true
