@@ -4,9 +4,9 @@ title: About Me
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  <!-- feature: so-simple-sample-image-4.jpg -->
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rocky_mountains.jpg
+  <!-- credit: WeGraphics -->
+  <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
 My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder** with a focus on Systems level (low-level) programming, but I enjoy learning about all forms of software! 

@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 excerpt: "An archive of blog posts sorted by date."
+image:
+  feature: keyboard-bw.jpg
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}

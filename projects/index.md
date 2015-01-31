@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Personal Projects
+title: Projects
 excerpt: "An archive of my projects."
+image:
+  feature: macbook-glasses.jpg
 ---
 
 <div id="projects">
