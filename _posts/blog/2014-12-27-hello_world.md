@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World, First Post"
 author: me
-excerpt: "Little background and reasoning about me"
+excerpt: "Little background info about me"
 categories: blog
 tags: [life, background]
 modified:
