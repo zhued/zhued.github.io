@@ -14,8 +14,6 @@ share: true
 comments: true
 ---
 
-##Warning: BAD WRITING INCOMING
-
 I got some pizza today, but it wasn’t the pizza that was satisfying. 
 
 ####TLDR: 
