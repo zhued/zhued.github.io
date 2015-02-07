@@ -1,10 +1,44 @@
+- name: anochat
+  time: Feb 2015 +
+  url: 
+  tagline: anonymous chat client
+  tools: Java
+  description: | 
+    **Currently in progress..** Anonymous chat room/client for fun with friends and understanding web/network sockets.
+  github:
+    url: zhued/anochat
+    branch: master
+
+- name: leaguestats
+  time: Feb 2015 +
+  url: 
+  tagline: league of legends stats tracker using RIOT API
+  tools: Python, JS
+  description: | 
+    **Currently in progress..** A system to find statistics that major sites don't offer (Gold/Creep per minute, comparing players, impact on game based on roles, etc).
+  github:
+    url: zhued/leaguestats
+    branch: master
+
+- name: ICUEM
+  time: Jan 2015 +
+  url: 
+  tagline: interactive CU engineering map
+  tools: Android, iOS
+  description: | 
+    **Currently in progress..** Making the Engineering Center at CU Boulder not a nightmare to navigate.
+  github:
+    url: zhued/ICUEM
+    branch: master
+
 - name: word clock
   time: Jan 2015 +
   url: 
   tagline: led word clock controlled by arduino
   tools: Arduino
   description: | 
-    Currently in progress, check out github repo for updates and a timline of what I'm doing!
+    **Currently in progress..** A beautiful workclock that will also function as a tempurature sensor. also simple games can be implemented into it as well.
+    Check out github repo for updates!
   github:
     url: zhued/wordclock
     branch: master
@@ -20,7 +54,7 @@
     branch: master
 
 - name: EZList
-  time: Aug - Dec 2014
+  time: Aug 2014 - Dec 2014
   url:
   tagline: prototype of an app
   tools: JustInMind
@@ -36,7 +70,7 @@
     branch: master
 
 - name: MDWordcounter
-  time: Nov - Dec 2014
+  time: Nov 2014 - Dec 2014
   url:
   tagline: wordcount for github flavored markdown files
   tools: PHP
