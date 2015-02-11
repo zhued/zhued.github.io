@@ -97,7 +97,7 @@ Unconditional honesty displays your vulnerable side, an area in one's identity t
 
 **Human's are attracted to other's rough edges.**
 
-Everyone has their failures. Everyone has been wrong and/or embarrassed. Everyone sucks at something. It's how comfortable with being who you are how you are improving that is key to vulnerability.
+Everyone has their failures. Everyone has been wrong and/or embarrassed. Everyone sucks at something. It's how comfortable with being who you are and how you are improving that is key to vulnerability.
 
 #### Vulnerability is NOT Weakness.
 
@@ -149,7 +149,7 @@ The intentions in both scenarios is to find some sort of acceptance from random 
 
 ####Don't chase validation, but fulfillment.
 
-When you chase validation, you 'need' something from someone. You need something satisfying in return. .**This needy behavior is the bane of most relationships..**
+When you chase validation, you 'need' something from someone. You need something satisfying in return. **This needy behavior is the bane of most relationships.**
 
 Needy behavior differentiates a nice guy that finishes last and a nice guy that finished first. A pickup artist who wants to get any phone number and a genuinely interested guy. The friend-zone and.. anything but the friend-zone.
 
