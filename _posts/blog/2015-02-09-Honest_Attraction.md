@@ -143,7 +143,7 @@ Remember: WHAT you actually say doesn’t matter; WHY you say it matters... **In
 
 Let's say I have an urge to meet this pretty girl in class. I analyze and think of what kind of guys that she could be into *because I don't want to be rejected.*  I approach pretending to be her dream guy and spew out some arrogant pickup line. Whether she likes me or not, **she doesn't know who I am.**
 
-Another approach. Let's say there are tryouts for an improv group in town. I'm afraid to make a scene and have people dislike me, so I'm quite and boring the entire time, when really I'm very outgoing and perfect for the group. After the tryout, **they don't know who I am.**
+Another approach. Let's say there are tryouts for an improv group in town. I'm afraid to make a scene and have people dislike me, so I'm quiet and boring the entire time, when really I'm very outgoing and perfect for the group. After the tryout, **they don't know who I am.**
 
 The intentions in both scenarios is to find some sort of acceptance from random people, not to polarize them.
 
