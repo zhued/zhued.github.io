@@ -16,7 +16,9 @@ image:
 				<span class="time" style="font-weight: bold">{{ project.time }}</span>
 				<span class="toolstack">| toolstack:</span> {{ project.tools | join: ", " }}
 			</div>
-			<div class="description">{{ project.description | markdownify}}</div>
+			<div class="description">{{ project.description | markdownify}}
+			</div>
+
 
 			{% if project.url or project.github %}
 				{% if project.url %}
