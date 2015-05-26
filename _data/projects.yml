@@ -1,3 +1,16 @@
+- name: cachesim
+  time: Mar 2015 - May 2015
+  url: 
+  tagline: Simulation of L1, L2, and Main Memory Cache System
+  tools: C
+  description: | 
+    Implemented a simulator in C that will simulate and evaluate a memory system with two levels of cache memory and a main memory.
+    The caches are write-allocate, write-back caches. Simulations ran 5 traces on 15 different cache configurations. Each trace 
+    is about a few billion instructions and total simulations took around 30 hours to run fully. 
+  github:
+    url: zhued/cache-sim
+    branch: master
+
 - name: anochat
   time: Feb 2015 +
   url: 
@@ -13,7 +26,7 @@
   time: Feb 2015 +
   url: 
   tagline: league of legends stats tracker using RIOT API
-  tools: Python, JS
+  tools: Python, JS, AngularJS, Node, MongoDB
   description: | 
     **Currently in progress..** A system to find statistics that major sites don't offer (Gold/Creep per minute, comparing players, impact on game based on roles, etc).
   github:
@@ -21,12 +34,14 @@
     branch: master
 
 - name: ICUEM
-  time: Jan 2015 +
+  time: Jan 2015 - May 2015
   url: 
   tagline: interactive CU engineering map
-  tools: Android, iOS
+  tools: Android, iOS, JS, Node, MongoDB, Docco
   description: | 
-    **Currently in progress..** Making the Engineering Center at CU Boulder not a nightmare to navigate.
+    Making the Engineering Center at CU Boulder not a nightmare to navigate. Me and three other students collaborated and created an iOS and Andriod
+    apps that map out the Engineering Center using the architecture blueprints. We incorporated many coding practices such as pair programming, Test
+    Driven Development, Continuous Integration, and AutoDocumentation.
   github:
     url: zhued/ICUEM
     branch: master
