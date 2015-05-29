@@ -9,7 +9,7 @@ image:
   <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
 ---
 
-My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder** with a focus on Systems level (low-level) programming, but I enjoy learning about all forms of software! 
+My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder**. I enjoy developing and learning about all forms of software, from lower level System/Firmware code to higher level full stack web application development! 
 
 ## Quick Facts:
 
