@@ -43,14 +43,14 @@ owner:
   twitter: edwardrzhu
   facebook: #username
   github: zhued
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange:
   linkedin: edwardrzhu
   instagram: #username
   flickr: #username
   tumblr: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-65808904-1
     verify:
     ad-client:
     ad-slot: 
