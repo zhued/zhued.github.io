@@ -26,7 +26,7 @@ I'll just be very blunt, to the point, and harsh.
 
 I've never been a good public speaker. I freeze when I talk in front of groups of people. I don't like raising my hand or talking during class discussions. I don't know how to just strike up engaging conversations with strangers out of thin air.
 
-True, I've gotten much better than my younger, but I still have a long ways to go.
+True, I've gotten much better than my younger self, but I still have a long ways to go.
 
 I <s>want</s> **am going** to improve.
 
