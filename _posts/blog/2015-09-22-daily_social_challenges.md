@@ -4,7 +4,7 @@ title: "Leaving my Comfort Zone"
 author: me
 excerpt: "Do something everyday that scares you."
 categories: blog
-tags: [life, challenges]
+tags: [life, challenges, personal development]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
@@ -33,39 +33,137 @@ Here are my experiences on daily challenges that I give myself to get me out of 
 
 *Thanks Josh and Alex for doing these challenges with me and improving together.*
 
-### Day 1: 09/13/15
+## Day 1: September 13, 2015
 
+##### Selfie with a Stranger
 
+**First Try:** Failed, the guy didn't know what a selfie was.. nor too much English. He felt so confused and hostile.
+
+**Second Try:** Girl saw me having troubles with the guy above.
+
+> Girl -> "HI! Do you just need to get a selfie!??"
+
+> Me -> "Yeah.. I just need a photo wi.."
+
+> Girl -> "OK YEAH LETS DO IT!"
 
 <figure>
     <a href="/../../images/challenges/09_13_15_First.jpg"><img src="/../../images/challenges/09_13_15_First.jpg" alt="image"></a>
 </figure>
 
+*Forgive the blur, MY HANDS WERE SHAKIN*
 
-### Day 2: 09/15/15
+
+
+
+
+
+
+
+
+## Day 2: September 15, 2015
+
+#### Selfie with a Stranger
+
+> Me -> "Hey what's up? Can I ask a quick favor?"
+
+> Byron -> "Depends on what haha"
+
+> Me -> "Can I get a photo with you? For fun!"
+
+> Bryon -> "Ha, well.. I guess sure why not!"
 
 <figure>
     <a href="/../../images/challenges/09_15_15_Second_Byron.jpg"><img src="/../../images/challenges/09_15_15_Second_Byron.jpg" alt="image"></a>
 </figure>
 
+*Forgive the blur, again.....*
 
-### Day 3: 09/22/15
+
+
+
+
+
+
+
+
+## Day 3: September 22, 2015
+
+#### Two random people, one takes the picture, one in the picture
+
+> Guy -> "That was random of you, chill man. Peace out."
 
 <figure class="half">
     <a href="/../../images/challenges/09_22_15_other.jpg"><img src="/../../images/challenges/09_22_15_other.jpg" alt="image"></a>
 </figure>
 
+
+#### Random person takes a picture of you, then you lay face down on the ground.
+
+> Me -> "Ok wait" lays down "now take the picture"
+
+> Girl -> "omg what are you doing." laughs and smiles exchanted
+
 <figure>
     <a href="/../../images/challenges/09_22_15_lay_down.jpg"><img src="/../../images/challenges/09_22_15_lay_down.jpg" alt="image"></a>
+</figure>
+
+**LOL THAT WAS AN INTERESTING EXPERIENCE**
+
+
+
+
+
+
+
+
+
+
+## Day 4: September 23, 2015
+
+#### Picture with three random girls.
+
+> Me -> "Hey can I ask for a quick favor?"
+
+> Girls -> "Yeah! :)"
+
+> Me -> "Can I get a photo of you three and have her take the picture?"
+
+> Girls -> "Yeah! :)"
+
+> Me -> "Wait really?"
+
+> Girls -> "Yeah! :)"
+
+I contemplated for almost 20 minutes before finally being able to ask. And it was so easy. @_@
+
+<figure>
+    <a href="/../../images/challenges/09_23_15_three_girls.jpg"><img src="/../../images/challenges/09_23_15_three_girls.jpg" alt="image"></a>
 </figure>
 
 
 
 
-### Day 4: 09/23/15
+
+
+
+
+
+
+
+
+## Day 5: September 24, 2015
+
+#### Selfie with stranger and convince then to act like their picking their nose
+
+> Guy -> "Alright, if its for a good cause."
+
+> Me -> "Haha, it's just for fun!"
+
+> Guy -> "I'm always down for fun."
 
 <figure>
-    <a href="/../../images/challenges/09_23_15_three_girls.jpg"><img src="/../../images/challenges/09_23_15_three_girls.jpg" alt="image"></a>
+    <a href="/../../images/challenges/09_24_15_pick_nose.jpg"><img src="/../../images/challenges/09_24_15_pick_nose.jpg" alt="image"></a>
 </figure>
 
 
