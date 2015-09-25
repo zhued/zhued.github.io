@@ -156,7 +156,7 @@ I contemplated for almost 20 minutes before finally being able to ask. And it wa
 
 ## Day 5: September 24, 2015
 
-#### Selfie with stranger and convince then to act like their picking their nose
+#### Selfie with stranger and convince them to act like they're picking their nose
 
 > Guy -> "Alright, if its for a good cause."
 
