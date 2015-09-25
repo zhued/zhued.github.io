@@ -4,7 +4,7 @@ title: "Leaving my Comfort Zone"
 author: me
 excerpt: "Do one thing everyday that scares you."
 categories: blog
-tags: [life, challenges, personal development]
+tags: [life, personal development]
 modified:
 image:
   feature: so-simple-sample-image-4-small.jpg
@@ -18,7 +18,7 @@ comments: true
 
 ### Actions speak louder than words.
 
-I've read so many damn blogs and watched too many talks on ideas of confidence, motivation, not giving a f**k about the small things in life, and having a positive mentality. But I really don't understand any these concepts unless I go out and actually do it. 
+I've read so many damn blogs and watched too many talks on ideas of confidence, motivation, having a positive mentality, and not giving a f**k about the small things in life. But I really don't understand any these concepts unless I go out and actually do it. 
 
 ### Here is my situtation:
 
@@ -26,14 +26,14 @@ I'll just be very blunt, to the point, and harsh.
 
 I've never been a good public speaker. I freeze when I talk in front of groups of people. I don't like raising my hand or talking during class discussions. I don't know how to just strike up engaging conversations with strangers out of thin air.
 
-True, I've gotten much better than my younger days, but I still have a long ways to go.
+True, I've gotten much better than my younger, but I still have a long ways to go.
 
 I <s>want</s> **am going** to improve.
 
 
 # Let's go.
 
-Here are my experiences on daily challenges that I give myself to get me out of my shell.
+My friends and I have decided to give each other daily challenges that will push us out of our comfort zone. Here are my experiences of those daily challenges.
 
 *Thanks [Josh](http://joshfermin.me/) and [Alex](http://alexcampbell.co/) for doing these challenges with me and improving together. You guys are truly amazing friends.*
 
@@ -88,9 +88,9 @@ Here are my experiences on daily challenges that I give myself to get me out of 
 </figure>
 
 
-#### Random person takes a picture of you, then you lay face down on the ground.
+#### Ask a random person to take a picture of you, then you lay face down on the ground.
 
-> "omg what are you doing."  laughs and smiles exchanged
+> "omg what are you doing!"  laughs and smiles exchanged
 
 **LOL THAT WAS AN INTERESTING EXPERIENCE**
 
