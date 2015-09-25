@@ -102,13 +102,15 @@ Here are my experiences on daily challenges that I give myself to get me out of 
 
 > Me -> "Ok wait" lays down "now take the picture"
 
-> Girl -> "omg what are you doing." laughs and smiles exchanted
+> Girl -> "omg what are you doing." laughs and smiles exchanged
+
+**LOL THAT WAS AN INTERESTING EXPERIENCE**
 
 <figure>
     <a href="/../../images/challenges/09_22_15_lay_down.jpg"><img src="/../../images/challenges/09_22_15_lay_down.jpg" alt="image"></a>
 </figure>
 
-**LOL THAT WAS AN INTERESTING EXPERIENCE**
+
 
 
 
