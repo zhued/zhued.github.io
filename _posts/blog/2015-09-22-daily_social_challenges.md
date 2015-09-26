@@ -37,6 +37,8 @@ My friends and I have decided to give each other daily challenges that will push
 
 *Thanks [Josh](http://joshfermin.me/) and [Alex](http://alexcampbell.co/) for doing these challenges with me and improving together. You guys are truly amazing friends.*
 
+
+
 ## Day 1: September 13, 2015
 
 #### Selfie with a Stranger
@@ -48,12 +50,6 @@ My friends and I have decided to give each other daily challenges that will push
 </figure>
 
 *Forgive the blur, MY HANDS WERE SHAKIN*
-
-
-
-
-
-
 
 
 
@@ -70,13 +66,6 @@ My friends and I have decided to give each other daily challenges that will push
 *Forgive the blur, again.....*
 
 
-
-
-
-
-
-
-
 ## Day 3: September 22, 2015
 
 #### Two random people, one takes the picture, one in the picture
@@ -87,7 +76,6 @@ My friends and I have decided to give each other daily challenges that will push
     <img src="/../../images/challenges/09_22_15_other.jpg" alt="image">
 </figure>
 
-
 #### Ask a random person to take a picture of you, then you lay face down on the ground.
 
 > "omg what are you doing!"  laughs and smiles exchanged
@@ -97,15 +85,6 @@ My friends and I have decided to give each other daily challenges that will push
 <figure>
     <img src="/../../images/challenges/09_22_15_lay_down.jpg" alt="image">
 </figure>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -121,15 +100,6 @@ My friends and I have decided to give each other daily challenges that will push
 
 
 
-
-
-
-
-
-
-
-
-
 ## Day 5: September 24, 2015
 
 #### Selfie with a stranger and convince them to act like they're picking their nose
@@ -139,6 +109,25 @@ My friends and I have decided to give each other daily challenges that will push
 <figure>
     <img src="/../../images/challenges/09_24_15_pick_nose.jpg" alt="image">
 </figure>
+
+
+
+## Day 6: September 25, 2015
+
+#### Try to get a girl to hold your hand.
+
+Ok this one was SO hard; it took my like a good hour contemplating before I actually did it.
+
+Basically you randomly extend your hand out and ask for her to "hold this for me real quick," and when/if they reach for it, just hold their hand and see their reaction. 
+
+The girl was too scared but played it off cool like I was just joking with her. 
+
+> "No, sorry, oh my god, if that's an insect I will seriously scream"
+
+
+
+
+
 
 
 
