@@ -52,6 +52,7 @@ My friends and I have decided to give each other daily challenges that will push
 *Forgive the blur, MY HANDS WERE SHAKIN*
 
 
+<br>
 
 ## Day 2: September 15, 2015
 
@@ -65,6 +66,8 @@ My friends and I have decided to give each other daily challenges that will push
 
 *Forgive the blur, again.....*
 
+
+<br>
 
 ## Day 3: September 22, 2015
 
@@ -87,6 +90,7 @@ My friends and I have decided to give each other daily challenges that will push
 </figure>
 
 
+<br>
 
 ## Day 4: September 23, 2015
 
@@ -99,6 +103,7 @@ My friends and I have decided to give each other daily challenges that will push
 </figure>
 
 
+<br>
 
 ## Day 5: September 24, 2015
 
@@ -111,6 +116,7 @@ My friends and I have decided to give each other daily challenges that will push
 </figure>
 
 
+<br>
 
 ## Day 6: September 25, 2015
 
@@ -125,6 +131,26 @@ The girl was too scared but played it off cool like I was just joking with her.
 > "No, sorry, oh my god, if that's an insect I will seriously scream"
 
 
+
+<br>
+
+## Day 7: October 1, 2015
+
+#### Get a picture with someone holding you up like "a little baby."
+
+**First Try:** Would have done it, but had a test in 5 minutes so he needed to leave. 
+
+**Second Try: Negativity was real.**
+
+> "What the f\*\*k dude, that's wierd. F\*\*k off, I'm not doing that sh*t.
+
+**Third Try:** Super nice guy! Photo below. 
+
+> "Ok man! I hope I'm strong enough!"
+
+<figure>
+    <img src="/../../images/challenges/10_01_15_pick_up.jpg" alt="image">
+</figure>
 
 
 
