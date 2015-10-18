@@ -1,32 +1,38 @@
 ---
 layout: page
-title: About Me
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: rocky_mountains.jpg
-  <!-- credit: WeGraphics -->
-  <!-- creditink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ -->
+title: About me
+subtitle: What kind of person I am
 ---
+<div id="aboutme-section">
 
-My name is **Edward** and I love new, upcoming technology. I'm currently studying **Computer Science** at the **University of Colorado, Boulder**. Expected graduation **May 2016**! I enjoy developing and learning about all forms of software, from lower level system/firmware code to higher level full stack web application development! 
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Currently working as a <strong>software/system engineer intern</strong> (Hewlett-Packard Enterprise, HP) and worked as a <strong>web/database developer</strong> at a small startup (<a href="https://petrode.com/" target="_blank">PetroDE</a>).
+</p>
 
-## Quick Facts:
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+Currently studing in <strong>Computer Science</strong> at the <strong>University of Colorado, Boulder</strong>. Expected graduation <strong>May 2016</strong>!
+</p>
 
-* Fluent in speaking **Mandarin Chinese**, as well as Shanghainese (dialect of Chinese)
-* I love **volunteering**; Logged **over 400 hours** of non-profit work through various associations such as the Poudre Valley Hospital, the Poudre River Library, and other honor societies.
-* Enjoy **PC gaming**, building and upgrading computers, and staying updated with the latest technologies
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I enjoy hacking out <strong>full-stack web apps</strong> and <strong>useful software tools</strong> &mdash; check out <a href="{{ site.url }}/projects">my projects</a>.
+</p>
 
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I enjoy building and upgrading computers, <strong>volunteering</strong> (hospital, library), <strong>PC gaming</strong>, and staying updated with the latest technologies.
+</p>
 
-<!-- ## Contact Me:
+<p class="about-text">
+<span class="fa fa-file-text-o about-icon"></span>
+The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" target="_blank">resume</a>. 
+</p>
 
-Below is my email as well as links to my social sites, feel free to contact me and I will try to get back to you as soon as possible!
+<p class="about-text">
+<span class="fa fa-globe about-icon"></span>
+Born in Oregon, then moved to Mississippi for a few years, but mainly grew up in <i>Fort Collins, Colorado</i>. I'm fluent in Mandarin Chinese, as well as Shanghainese (dialect of Chinese).
+</p>
 
-<i class="fa fa-envelope-o fa-fw"></i>edward.r.zhu@gmail.com
-
-<a markdown="0" href="https://www.linkedin.com/in/edwardrzhu" class="btn" target="_blank"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
-<a markdown="0" href="https://github.com/zhued" class="btn" target="_blank"><i class="fa fa-github fa-fw"></i> GitHub</a>
-<a markdown="0" href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" class="btn" target="_blank"><i class="fa fa-edit fa-fw"></i> Resume</a> -->
-
-
-[^1]: Example: *domain.com/category-name/post-title*
+</div>
