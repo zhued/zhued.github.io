@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: What kind of person I am
+css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 

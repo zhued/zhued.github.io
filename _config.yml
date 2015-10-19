@@ -36,9 +36,11 @@ author:
   github: zhued    # eg. daattali
   twitter: edwardrzhu   # eg. daattali
   linkedin: in/edwardrzhu  # eg. "pub/dean-attali/8/946/143"
+  resume: https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view
 
 # Select which links to show in the footer
 footer-links-active:
+  resume: true
   rss: false
   facebook: false
   email: false

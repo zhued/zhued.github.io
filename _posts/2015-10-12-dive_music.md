@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dive Music"
+title: "divemusic"
 author: me
 excerpt: "Using Soundcloud to map out music around the world!"
 categories: blog
