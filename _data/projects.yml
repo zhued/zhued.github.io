@@ -1,3 +1,15 @@
+- name: divemusic
+  time: October 2015
+  url: edwardzhu.me/blog/dive_music/
+  tagline: mapping out the world's music using SoundCloud API
+  tools: Javascript, AngularJS, Node, MongoDB
+  description: | 
+    Pulled user location and audio from SoundCloud and mapped out the world's preferences in music. Clicking on each country will show the
+    top tracks played in that specific country.
+  github:
+    url: zhued/divemusic
+    branch: master
+
 - name: cachesim
   time: Mar 2015 - May 2015
   url: 
@@ -28,7 +40,8 @@
   tagline: league of legends stats tracker using RIOT API
   tools: Python, JS, AngularJS, Node, MongoDB
   description: | 
-    **Currently in progress..** A system to find statistics that major sites don't offer (Gold/Creep per minute, comparing players, impact on game based on roles, etc).
+    A system that pulls "summoner" data from the popular online game, League of Legends, and creates a weeklong heatmap of when you play most.
+    It maps out every hour of the day from Monday to Sunday, so a player's game time trends are averaged in a easy to read format.
   github:
     url: zhued/leaguestats
     branch: master
