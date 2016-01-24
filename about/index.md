@@ -13,7 +13,7 @@ Currently working as a <strong>software/system engineer intern</strong> (Hewlett
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Currently studing in <strong>Computer Science</strong> at the <strong>University of Colorado, Boulder</strong>. Expected graduation <strong>May 2016</strong>!
+Currently studying in <strong>Computer Science</strong> at the <strong>University of Colorado, Boulder</strong>. Expected graduation <strong>May 2016</strong>!
 </p>
 
 <p class="about-text">
