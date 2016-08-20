@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: What kind of person I am
+subtitle: Who I am
 css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently working as a <strong>software/system engineer intern</strong> (Hewlett-Packard Enterprise, HP) and worked as a <strong>web/database developer</strong> at a small startup (<a href="https://petrode.com/" target="_blank">PetroDE</a>).
+Currently working as a <strong>software engineer</strong> focusing on <strong>virtualization</strong> of cloud spaces (<strong>containers, VMs, and ContainerOS</strong>) at Hewlett-Packard Enterprise. I was a <strong>software engineerig intern</strong> (Hewlett-Packard Enterprise, HP) and also worked as a <strong>web/database developer</strong> at <a href="https://petrode.com/" target="blank">PetroDE</a>.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Currently studying in <strong>Computer Science</strong> at the <strong>University of Colorado, Boulder</strong>. Expected graduation <strong>May 2016</strong>!
+Graduated in <strong>May 2016</strong> from the <strong>University of Colorado, Boulder</strong> majoring in <strong>Computer Science</strong>!
 </p>
 
 <p class="about-text">
@@ -28,7 +28,7 @@ I enjoy building and upgrading computers, <strong>volunteering</strong> (hospita
 
 <p class="about-text">
 <span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" target="_blank">resume</a>. 
+The <strong><a href="{{ site.url }}/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my <a href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" target="blank">resume</a>.
 </p>
 
 <p class="about-text">
