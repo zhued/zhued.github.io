@@ -66,7 +66,7 @@ google_analytics: "UA-65808904-1"
 # Output options (more information on Jekyll's site)
 timezone: "America/Denver"
 markdown: kramdown
-# highlighter: pygments
+highlighter: rouge
 # permalink: /:year-:month-:day/:title
 permalink: /blog/:title/
 paginate: 5
