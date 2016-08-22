@@ -1,6 +1,6 @@
 - name: divemusic
   time: October 2015
-  url: http://edwardzhu.me/blog/dive_music/
+  url:
   tagline: mapping out the world's music using SoundCloud API
   tools: Javascript, AngularJS, Node, MongoDB
   description: |
