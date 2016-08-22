@@ -28,6 +28,7 @@ highlighter: rouge
 disqus: edwardzhu
 
 # if you don't have any of social below, comment the line
+resume: true
 # facebook: myfacebook
 twitter: thelifeofewer
 # google: mygoogle

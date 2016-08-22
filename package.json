@@ -4,14 +4,14 @@
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiokopplin/indigo.git"
+    "url": "git+https://github.com/zhued/zhued.github.io.git"
   },
-  "author": "",
+  "author": "Edward Zhu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sergiokopplin/indigo/issues"
+    "url": "https://github.com/zhued/zhued.github.io/issues"
   },
-  "homepage": "https://github.com/sergiokopplin/indigo#readme",
+  "homepage": "https://github.com/zhued/zhued.github.io",
   "devDependencies": {
     "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",
