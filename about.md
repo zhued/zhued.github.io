@@ -7,7 +7,7 @@ layout: page
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently working as a <strong>software engineer</strong> focusing on <strong>virtualization</strong> of cloud spaces (<strong>containers, VMs, and ContainerOS</strong>) at Hewlett-Packard Enterprise. I was a <strong>software engineerig intern</strong> (Hewlett-Packard Enterprise, HP) and also worked as a <strong>web/database developer</strong> at <a href="https://petrode.com/" target="blank">PetroDE</a>.
+Currently working as a <strong>software engineer</strong> focusing on <strong>virtualization</strong> of cloud spaces (<strong>containers, VMs, and ContainerOS</strong>) at Hewlett-Packard Enterprise. I was a <strong>software engineering intern</strong> (Hewlett-Packard Enterprise, HP) and also worked as a <strong>web/database developer</strong> at <a href="https://petrode.com/" target="blank">PetroDE</a>.
 </p>
 
 <p class="about-text">
