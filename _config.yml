@@ -62,6 +62,7 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 about: true
 projects: true
+resume: true
 # blog: true
 
 

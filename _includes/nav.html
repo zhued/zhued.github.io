@@ -6,10 +6,10 @@
             </li>
         {% endif %}
 
-        {% if site.blog == true %}
-            {% if page.title != "Blog" %}
+        {% if site.about == true %}
+            {% if page.title != "About" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -22,12 +22,21 @@
             {% endif %}
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
+        {% if site.blog == true %}
+            {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
             {% endif %}
         {% endif %}
+
+        {% if site.resume == true %}
+            {% if page.title != "Resume" %}
+                <li class="item">
+                    <a class="link" href="https://drive.google.com/file/d/0B8mMgx7E3Dn9OEZtYng1Nmc4RDQ/view" target="_blank">Resume</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
     </ul>
 </nav>
