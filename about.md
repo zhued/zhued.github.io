@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Currently working as a <strong>full-stack software engineer</strong> at <a href="www.helix.com" target="blank">Helix</a>. Previously at <a href="www.apptio.com" target="blank">Apptio</a>, <a href="www.hpe.com" target="blank">Hewlett-Packard Enterprise</a>, and <a href="www.petrode.com" target="blank">PetroDE</a>.
+Currently working as a <strong>full-stack software engineer</strong> at <a href="http://www.helix.com" target="blank">Helix</a>. Previously at <a href="http://www.apptio.com" target="blank">Apptio</a>, <a href="http://www.hpe.com" target="blank">Hewlett-Packard Enterprise</a>, and <a href="http://www.petrode.com" target="blank">PetroDE</a>.
 </p>
 
 <p>
