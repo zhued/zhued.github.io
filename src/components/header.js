@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+import { Link as GatsbyLink } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import styled from "styled-components"
@@ -8,12 +8,27 @@ import Moon from "@icons/Moon";
 
 const HeaderContainer = styled.div`
   max-width: 1200px;
-  height: 20px;
+  height: 24px;
+  display: flex;  
+  justify-content: flex-end;
+  align-items: center;
+`
+
+const NavLink = styled(GatsbyLink)`
+  opacity: 0.7;
+  color: ${({ theme }) => theme.text};
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 20px;
+
+  &:hover {
+    opacity: 1;
+  }
 `
 
 const ToggleTheme = styled.div`
-  float: right;
   opacity: 0.5;
+  margin-left: 30px;
 
   &:hover {
     opacity: 1;
@@ -22,14 +37,12 @@ const ToggleTheme = styled.div`
 
 const Header = ({ toggleTheme, isLightTheme }) => (
   <HeaderContainer>
-
-    {/* <Link to="/">
-      {siteTitle}
-    </Link> */}
+    <NavLink to="/">
+      hello
+    </NavLink>
     <ToggleTheme onClick={toggleTheme}>
       {isLightTheme ? <Sun/> : <Moon/>}
     </ToggleTheme>
-
   </HeaderContainer>
 )
 
