@@ -11,10 +11,12 @@ import { useStaticQuery, graphql } from "gatsby"
 import styled, { ThemeProvider } from "styled-components"
 
 import { GlobalStyle, lightTheme, darkTheme } from "../../styles/styled"
+import Header from "../header"
 
 const MainContainer = styled.div`
-  margin: 125px auto 10px auto;
-  max-width: 560px;
+  margin: 80px auto 10px auto;
+  padding: 0 50px;
+  max-width: 1000px;
 `
 
 const Layout = ({ children }) => {
@@ -38,10 +40,11 @@ const Layout = ({ children }) => {
     <ThemeProvider theme={isLightTheme ? lightTheme : darkTheme}>
       <>
         <GlobalStyle/>
-        {/* <Header> */}
         <MainContainer>
-          <button onClick={toggleTheme}>Toggle theme</button>
-          <main>{children}</main>
+          <Header toggleTheme={toggleTheme} isLightTheme={isLightTheme}/>
+          <main>
+            {children}
+          </main>
           <footer>
             © {new Date().getFullYear()} All rights reserved.
           </footer>
@@ -51,8 +54,8 @@ const Layout = ({ children }) => {
   )
 }
 
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-}
+// Layout.propTypes = {
+//   children: PropTypes.node.isRequired,
+// }
 
 export default Layout
