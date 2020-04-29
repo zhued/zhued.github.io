@@ -13,7 +13,7 @@ const HeaderContainer = styled.div`
 
 const ToggleTheme = styled.div`
   float: right;
-  opacity: 0.3;
+  opacity: 0.5;
 
   &:hover {
     opacity: 1;

@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
     background: ${({ theme }) => theme.body};
     font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: ${({ theme }) => theme.text};
+    transition: all 0.2s linear;
   }
 `
 
