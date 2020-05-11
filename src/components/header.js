@@ -43,7 +43,7 @@ const Header = ({ toggleTheme, isLightTheme }) => (
     <NavLink to="/about">
       About
     </NavLink>
-    <NavLink to="/">
+    <NavLink to="/resume">
       Resume
     </NavLink>
     <ToggleTheme onClick={toggleTheme}>
