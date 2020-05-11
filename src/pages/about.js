@@ -3,13 +3,13 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layouts/layout"
 import SEO from "../components/seo"
+import {PageOpenerText, PageOpenerSubText} from "@styled"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="About" />
+    <PageOpenerText>Hey there,</PageOpenerText>
+    <PageOpenerSubText>it's nice to meet you!</PageOpenerSubText>
   </Layout>
 )
 

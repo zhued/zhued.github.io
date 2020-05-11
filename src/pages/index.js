@@ -5,25 +5,29 @@ import Typed from 'react-typed';
 import Layout from "../components/layouts/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import {PageOpenerText, PageOpenerSubText} from "@styled"
 
 const IndexPage = () => {
-  
+  const IAmAList = ["a software engineer.",
+                    "a skater.",
+                    "a brazilian jiu-jitsu student.",
+                    "a whacky socks enthusiast.",
+                    "a food lover."];
+
   return (
     <Layout>
       <SEO title="edward" />
-      <h1>edward zhu</h1>
-      <p>this is a site about edward</p>
-      <p>hell yeah <Typed
-        strings={["brother", "mi amigos", "brethren", "skating"]}
-        typeSpeed={50}
-        backSpeed={20}
-        backDelay={1250}
+      <PageOpenerText>Hello, I'm Edward!</PageOpenerText>
+      <PageOpenerSubText>I am <Typed
+        strings={IAmAList}
+        typeSpeed={30}
+        backSpeed={10}
+        backDelay={1500}
         loop/>
-      </p>
-      <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+      </PageOpenerSubText>
+      {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
         <Image />
-      </div>
-      <Link to="/page-2/">Go to page 2</Link>
+      </div> */}
     </Layout>
   )
 }

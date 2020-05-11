@@ -20,6 +20,7 @@ module.exports = {
         aliases: {
           '@components': './components', // <- will become ./src/components
           '@icons': './assets/icons', // <- will become ./src/assets.icons
+          '@styled': './styles/global.styled',
         }
       }
     },
@@ -38,6 +39,16 @@ module.exports = {
         icon: `src/assets/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Jost\:400,450,500,600`,
+          `Heebo` // you can also specify font weights and styles
+        ],
+        display: 'swap'
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

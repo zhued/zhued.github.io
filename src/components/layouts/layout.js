@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import styled, { ThemeProvider } from "styled-components"
 
-import { GlobalStyle, lightTheme, darkTheme } from "../../styles/global.styled"
+import { GlobalStyle, lightTheme, darkTheme } from "@styled"
 import Header from "../header"
 
 const MainContainer = styled.div`
@@ -45,9 +45,9 @@ const Layout = ({ children }) => {
           <main>
             {children}
           </main>
-          <footer>
+          {/* <footer>
             © {new Date().getFullYear()} All rights reserved.
-          </footer>
+          </footer> */}
         </MainContainer>
       </>
     </ThemeProvider>

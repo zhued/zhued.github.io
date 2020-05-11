@@ -38,7 +38,13 @@ const ToggleTheme = styled.div`
 const Header = ({ toggleTheme, isLightTheme }) => (
   <HeaderContainer>
     <NavLink to="/">
-      hello
+      Home
+    </NavLink>
+    <NavLink to="/about">
+      About
+    </NavLink>
+    <NavLink to="/">
+      Resume
     </NavLink>
     <ToggleTheme onClick={toggleTheme}>
       {isLightTheme ? <Sun/> : <Moon/>}
