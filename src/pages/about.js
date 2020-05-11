@@ -5,7 +5,7 @@ import Layout from "../components/layouts/layout"
 import SEO from "../components/seo"
 import {PageOpenerText, PageOpenerSubText} from "@styled"
 
-const SecondPage = () => (
+const AboutPage = () => (
   <Layout>
     <SEO title="About" />
     <PageOpenerText>Hey there,</PageOpenerText>
@@ -13,4 +13,4 @@ const SecondPage = () => (
   </Layout>
 )
 
-export default SecondPage
+export default AboutPage
