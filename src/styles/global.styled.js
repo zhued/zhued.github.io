@@ -9,15 +9,6 @@ export const GlobalStyle = createGlobalStyle`
   }
 `
 
-// export const GlobalStyle = createGlobalStyle`
-//   body {
-//     background: ${({ theme }) => theme.body};
-//     font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
-//     color: ${({ theme }) => theme.text};
-//     transition: all 0.2s linear;
-//   }
-// `
-
 export const lightTheme = {
   body: '#FAFAFA',
   text: '#121212',
