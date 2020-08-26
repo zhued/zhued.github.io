@@ -14,7 +14,7 @@ const urls = {
   apptio: "https://www.apptio.com/",
   hpe: "https://www.hpe.com/",
   hp: "https://www.hp.com/",
-  pedode: "https://petrode.com/",
+  petrode: "https://petrode.com/",
 }
 
 const ResumeDownload = styled.a`
@@ -148,7 +148,7 @@ const ResumePage = () => {
           </div>
 
           <div>
-            <InfoLink url={urls.pedode} color="#3583dd" copy="PetroDE"/>
+            <InfoLink url={urls.petrode} color="#3583dd" copy="PetroDE"/>
             <TitleTimeline>Software Development Engineer · Nov 2016 - Feb 2019</TitleTimeline>
             <Content>
               <div>Primarily Frontend. React, Typescript, Python/Django, GCP</div>
