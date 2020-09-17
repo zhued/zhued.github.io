@@ -1,0 +1,18 @@
+import React from "react"
+import { Link } from "gatsby"
+
+import Layout from "../components/layouts/layout"
+import SEO from "../components/seo"
+import {PageOpenerText, PageOpenerSubText} from "@styled"
+
+const AboutPage = () => {
+  return(
+    <Layout>
+      <SEO title="About" />
+      <PageOpenerText>Hey there,</PageOpenerText>
+      <PageOpenerSubText>it's nice to meet you!</PageOpenerSubText>
+    </Layout>
+  )
+}
+
+export default AboutPage
