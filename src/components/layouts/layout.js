@@ -12,12 +12,7 @@ import styled, { ThemeProvider } from "styled-components"
 
 import { GlobalStyle, lightTheme, darkTheme } from "@styled"
 import Header from "../header"
-
-const MainContainer = styled.div`
-  margin: 80px auto 10px auto;
-  padding: 0 50px;
-  max-width: 1000px;
-`
+import { MainContainer } from "@styled"
 
 const Layout = ({ children }) => {
   const [isLightTheme, setIsLightTheme] = useState(true);
