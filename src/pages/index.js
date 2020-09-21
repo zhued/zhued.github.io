@@ -38,7 +38,7 @@ const IndexPage = () => {
         <div><SocialMediaLink href="http://linkedin.com/in/edwardrzhu" target="_blank">linkedin</SocialMediaLink></div>
 
         <SocialMediaIcon><ResumeLogo /></SocialMediaIcon>
-        <div><SocialMediaLink href="https://drive.google.com/file/d/1nZ4RL2F9QnA09fi8IKnDxUYXKsFj4EzC/view" target="_blank">resume</SocialMediaLink></div>
+        <div><SocialMediaLink href="https://drive.google.com/file/d/1NeaEepoEnfgS-usDwuwcraK2HGClgzIy/view" target="_blank">resume</SocialMediaLink></div>
       </SocialMediaContainer>
 
       {/* <SocialMediaIcon>
