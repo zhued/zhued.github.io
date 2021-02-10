@@ -125,3 +125,10 @@ export const SocialMediaLink = styled.a`
     font-size: 28px;
   }
 `
+
+// lily stuff
+export const LilyIconImg = styled.img`
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+`
